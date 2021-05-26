@@ -1,0 +1,77 @@
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: rgb(19, 17, 17);
+    margin: 0;
+    background-color: rgb(220, 239, 247);
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 30px;   
+}
+
+
+.foto {
+    width: 200px;
+    border: 2px solid #080808;
+    border-radius: 50% 50% 50% 50%;
+    margin: 40px 30px 10px 30px;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgb(192, 188, 188);
+}
+
+.social {
+    width: 30px;
+}
+
+.github {
+    margin: 0 15px 0 15px;
+}
+
+h1 {
+    margin-bottom: 0px 0px;
+    letter-spacing:3px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+h2 {
+    margin-top: 0px;
+    font-style: italic;
+    color: rgb(80, 79, 79);
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+h5 {
+    margin: 0px 0 10px 0;
+    font-weight: 200;
+    font-style: italic;
+}
+
+p {
+    margin-top: 0px;
+}
+
+.job-list {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+    padding: 10px 0;
+}

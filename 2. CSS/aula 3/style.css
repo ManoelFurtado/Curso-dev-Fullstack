@@ -1,0 +1,13 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+p {
+    color: rgb(19, 17, 17)
+}
+.foto {
+    width: 200px;
+}

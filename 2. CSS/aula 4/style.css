@@ -1,0 +1,8 @@
+p {
+    color: rgb(19, 17, 17)
+}
+.foto {
+    width: 200px;
+    border: 2px solid #080808;
+    border-radius: 50% 50% 50% 50%;
+}
